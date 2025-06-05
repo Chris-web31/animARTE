@@ -1,0 +1,122 @@
+﻿<html>
+<head>
+<title>animARTE</title>
+</head>
+
+<body background="file:///E:/animARTE/istockphoto-1266148989-640x640.jpg">
+  <table border="1"><tr>
+  <th><img src="file:///D:/animARTE/banner.psd"></th>
+  </tr>
+  <tr>
+   <td>PINTURA</td>
+    </tr>
+     <tr>
+      <td><h4>Es una diciplina artistica que consiste en la aplicacion 
+de pigmentos sobre una superficie para crear imagenes, formas y composiciones que expresan ideas, emociones, percepciones o visiones del mundo.</p>
+            Considerada una de las artes plasticas tradicionales ,
+ la pintura no solo busca representar la realidad, sino tambien interpretarla,
+ explorar la estetica y provocar una respuesta sensorial o intelectual en el espectador.</p>
+            Como manifestacion de la belleza, la pintura ha sido, a lo largo de la historia,
+ un medio privilegiado para la para la exprecion creativa, el pensamientyo simbolico y la transmocion cultural.</h4></p></td>
+        </tr>
+        <tr>
+        <th><img src="file:///E:/animARTE/Van%20Ghog.jpg"></th>
+        </tr>
+         <tr>
+          <td>ESTILOS</td>
+         </tr>
+          <tr>
+           <td><h4>Dentro de la pintura existen muchos estilos o "corrientes" como se les suele llamar, y si abarcamos todas, esto de nos haria esterno, asi que aqui te vamos a contar las mas relevante y las que tuvieron un mayor impacto en el mundo del arte</h4></p></td>
+         </tr>
+         <tr>
+          <td>ROMANICO</td>
+         </tr>
+          <tr>
+           <td><h4>Desde inicios de la Edad Media y hasta la época románica, la pintura mural fue reemplazando a los mosaicos en la decoración de las iglesias dando lugar a lo que conocemos como pintura Románica.</p>
+La pintura románica surgió en Francia y España, donde se inició el movimiento del arte románico. Fue idea del Papa Gregorio el Grande (590-604), el que las imágenes cristianas debían tener la misión de enseñar la religión a la gran masa de población analfabeta.</p>
+            </tr>
+             <tr>
+              <th><img src="file:///E:/animARTE/pintura%20romanica.jpg"></th>
+             </tr>
+              <tr>
+               <td>REALISMO</td>
+              </tr>
+               <tr>
+                <td><h4>El realismo surgio como respuesta al romanticismo a mediados del siglo XIX en francia, esta intentaba reprecentar de forma mas fiel y exacta a la realidad.</p>
+Esta no solo se precento en la pintura, sino tambien en la literatura, escultura y teatro.</p>
+El realismo prefiere las situaciones cotidianas en lugar de las idealizacionbes heroicas intentando representar la realidad de la manera mas verocimil pocible.</p></h4></td>
+               </tr>
+                <tr>
+                 <th><img src="file:///E:/animARTE/Lagioconda-5ae599568e1b6e00370600c5.jpg"></th>
+                </tr>
+         <tr>
+          <td>ARQUITECTURA</td>
+           </tr>
+            <tr>
+             <td><h4>Es el arte de proyectar y construir espacios habitables que combinan funcionalidad, estetica y simbolismo.</p>
+                 A traves del diseno de edificaciones y necesidades practicas, sino que tambien expresa
+valores culturales, filosoficos y artisticos.</p>
+                 Como manifestacion del ingenio humano, la arquitectura se convierte en  una forma tangible de belleza quedialoga
+con el entorno, la historia y la sociedad.</h4></p></td>
+              </tr>
+              <tr>
+               <th><img src="file:///E:/animARTE/Capilla%20de%20republica.jpg"></th>
+               </tr>
+                <tr>
+                 <td>MUSICA</td>
+                  </tr>
+                   <tr>
+                    <td><h4>Es el arte de organizar sonidos en el tiempo mediante los elementos del ritmo, la melodia, la armonia y el timbre,
+con el fin de exprezar emociones, ideas o estados de animo.</p>
+Es una forma de comunicacion universal que trasciende barreras culturales y linguisticas, capaz de conmover, inspirar y transformar.</p>
+Como bella arte, la musica busca no solo entender, sino tambien elevar el espiritu humano a traves de la belleza sonora.</h4></p></td>
+                    </tr>
+                     <tr>
+                      <th><img src="file:///E:/musica.jpg"></th>
+                     </tr>
+                     <tr>
+                      <td>ESCULTURA</td>
+                       </tr>
+                        <tr>
+                         <td><h4>Es la diciplina artistica que consiste en modelar, tallar o esculpir materiales como piedra, madera, metal o arcilla
+para crear formas tridimencionalesque expresan ideas, sentimientos o representaciones simbolicas.</p>
+Areaves de el volumen, la textura y el espacio, la escultura transforma la materiaen una manifestracion tangible de la belleza, convirtiendoce
+en un medio de expresion profunda que dialoga con el entorno y la percepcion de la del espectador.</h4></p></td>
+                         </tr>
+                           <tr>
+                          <th><img src="file:///E:/animARTE/escultura%20griega.jpg"></th>
+                         </tr>
+                        <tr>
+                       <td>LITERATURA</td>
+                      </tr>
+                     <tr>
+                    <td><h4>Es el arte de tejer palabras con belleza, intencion y profundidad.</p>
+A traves de la escritura, el ser humano transformapensamientos, suenos y memorias en relatos, poemas o reflexiones que tocan el alma.</p>
+La literatura no solo cuentan historias: construyen mundos, revela verdades ocultas y deja una huella imborrable en la sensibilidad de quien la lee.</h4></p></td>
+                   </tr>
+                    <tr>
+                    <th><img src="file:///E:/animARTE/manos-poeta-pluma-diario.jpg"></th>
+                    </tr>
+                  <tr>
+                 <td>DANZA</td>
+                </tr>
+               <tr>
+              <td><h4>Es el arte de expresar emociones, ideas e historias a traves del movimientos del cuerpo en el espacio y el tiempo.</p>
+Es un lenguaje sin palabras que nace del ritmo, fluye con la musica y habla directamente al alma.</p>
+cada gesto, cada giro y cada silencio corporal construye una narrativa que trasciende lo verbal y transforma el instante en arte vivo.</h4></p></td>
+             </tr>
+              <tr>
+               <th><img src="file:///E:/animARTE/9ef079e3f52716ade2c5e2cb2a5ea1bdanza.jpg"></th>
+              </tr>
+            <tr>
+           <td>CINE</td>
+          </tr>
+         <tr>
+        <td><h6>Es la fusion de imagen, sonido, narrativa y emocion en movimiento. Es un arte total que combina fotografia, actuacion, musica, guion y montaje
+para dar vida a historias que reflejan la condicion humana, cuestionan la realidad o transportan al espectador a otros mundos.</p>
+El cine no solo entretiene: conmueve, despierta conciencia y deja una huella visual y emocional imborrable.</h6></p></td>
+      </tr>
+       <tr>
+        <th><img src="file:///E:/animARTE/cinematografia-y-escritura-696x391.jpg"</th>
+       </tr>
+         <td></td>
